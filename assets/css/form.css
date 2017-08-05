@@ -1,0 +1,18 @@
+.frm-login{
+	max-width: 250px;
+	width: 100vw;
+}
+.frm-login input{
+	background-color: rgba(0,0,0,.6);
+	border: none;
+	border-radius: 10em;
+	padding: 1em;
+	margin: .5em 0;
+	color: rgba(255,255,255,1);
+	font-size: 1em;
+	letter-spacing: 1px;
+}
+.frm-login input[type="submit"]{
+	background-color: #36AA32;
+	cursor: pointer;
+}
