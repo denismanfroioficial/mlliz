@@ -27,3 +27,13 @@
     font-weight: normal;
     font-style: normal;
 }
+/*Acne*/
+@font-face {
+    font-family: 'Acne';
+    src: url('../fonts/acne/AcneDemo-Regular.eot');
+    src: local('☺'), url('../fonts/acne/AcneDemo-Regular.woff') format('woff'), 
+                     url('../fonts/acne/AcneDemo-Regular.ttf') format('truetype'), 
+                     url('../fonts/acne/AcneDemo-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
